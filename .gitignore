@@ -1,0 +1,29 @@
+# ========== Python Virtual Environment ==========
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# ========== Python Cache ==========
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ========== Environment Files ==========
+.env
+.env.*
+*.secret
+
+# ========== Logs / Temp ==========
+*.log
+tmp/
+.cache/
+
+# ========== OS ==========
+.DS_Store
+Thumbs.db
+
+# ========== IDE ==========
+.vscode/
+.idea/
